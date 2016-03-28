@@ -1,0 +1,10 @@
+email: myoda@pstcc.edu
+access:
+  admin:
+    login: true
+  site:
+    login: true
+fullname: 'Master Yoda'
+title: Master
+state: enabled
+hashed_password: $2y$10$uEpM4WZrFVFImwcvcCpCCO/bI1SjJJUjrohRTArZJAIY/HNHtrgS6

@@ -1,0 +1,14 @@
+1459432763
+a:2:{s:7:"content";s:1700:"<blockquote>
+<p>Find the classlist tool under the "Communication" tab</p>
+</blockquote>
+<p>You can view all the participants enrolled in your course in the classlist tool.</p>
+<ul>
+<li>Set how many participants appear on each page of the classlist.  <strong>Be careful</strong> if you have more than 20 students then there might be more on the next page and if you email from this screen you are only emailing the students you can currently see. <img alt="users per page dropdow" src="/grav/grav-skeleton-rtfm-site/user/pages/01.d2lbasics/02.classlist/01.view/classlistperpage.PNG" /></li>
+<li>Sort students by first or last name, user-name, and by the date they were last logged in to the course by clicking the list column headers to sort by that criterion <img alt="class list header" src="/grav/grav-skeleton-rtfm-site/user/pages/01.d2lbasics/02.classlist/01.view/classlistheader.PNG" /></li>
+<li>Find a student quickly by searching for their name or user-name in the search box. <img alt="user search field" src="/grav/grav-skeleton-rtfm-site/user/pages/01.d2lbasics/02.classlist/01.view/classlistusersearch.PNG" /></li>
+<li>View <em>enrollment statistics</em> to see the course participant count or to see those who have left the course. <img alt="view enrollment statistics button" src="/grav/grav-skeleton-rtfm-site/user/pages/01.d2lbasics/02.classlist/01.view/classlisttopmenus.PNG" /></li>
+<li><a href="/grav/grav-skeleton-rtfm-site/en/d2lbasics/classlist/email" title="Email Tool">Email</a> your students from the classlist</li>
+<li>View your ClassList by <a href="/grav/grav-skeleton-rtfm-site/en/d2lbasics/classlist" title="Groups Tool">Groups</a> enrollment</li>
+</ul>
+<p>TODO links</p>";s:12:"content_meta";N;}

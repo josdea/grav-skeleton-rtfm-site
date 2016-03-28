@@ -1,0 +1,16 @@
+1457631066
+a:2:{s:7:"content";s:793:"<p>**Create a News Item
+Go to the "Course Home" tab</p>
+<ol>
+<li>Click the option triangle next to "News"<img alt="news tools menu" src="/grav/grav-skeleton-rtfm-site/user/pages/01.d2lbasics/01.news/01.addnews/newstoolmenu.PNG" /></li>
+<li>Click the "New News Item" option</li>
+<li>Use [HTML editor][1] to type the details of your news alert: Headline and Content</li>
+<li>Options: 
+<ol>
+<li>Set the date range you'd like the news item available to your students</li>
+<li><a href="/grav/grav-skeleton-rtfm-site/d2lbasics/news/addnews" title="Adding a File">Add a File</a></li>
+<li><a href="/grav/grav-skeleton-rtfm-site/d2lbasics/news/addnews" title="Release Conditions">Release Conditions</a></li>
+</ol></li>
+<li>"Publish" your news item</li>
+</ol>
+<p>[1]: http:// "D2L Editor" TODO links</p>";s:12:"content_meta";N;}

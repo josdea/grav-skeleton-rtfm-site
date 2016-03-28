@@ -1,0 +1,12 @@
+1458069795
+a:2:{s:7:"content";s:1622:"<blockquote>
+<p>Find the calendar tool by clicking the date at the top of any screen, under the "Course Tools" tab, or "My Home" screen when you first log in.</p>
+</blockquote>
+<p>The calendar is automatically populated by dates that you set in the following tools: <a href="/grav/grav-skeleton-rtfm-site/d2lbasics" title="DropBox Tool">DropBox</a>, <a href="/grav/grav-skeleton-rtfm-site/d2lbasics" title="Course Content Tool">Course Content</a>, <a href="/grav/grav-skeleton-rtfm-site/d2lbasics" title="Quizzes Tool">Quizzes</a>, <a href="/grav/grav-skeleton-rtfm-site/d2lbasics" title="Checklist Tool">Checklists</a>, <a href="/grav/grav-skeleton-rtfm-site/d2lbasics" title="Survey Tool">Surveys</a>, <a href="/grav/grav-skeleton-rtfm-site/d2lbasics" title="Grades Tool">Grades</a>, and <a href="/grav/grav-skeleton-rtfm-site/d2lbasics" title="Discussion Tool">Discussions</a>.</p>
+<ul>
+<li>Calendar events display notifications in the D2L <a href="/grav/grav-skeleton-rtfm-site/d2lbasics/calendar" title="Pulse App">Pulse App</a> </li>
+<li>You can change multiple content dates at the same time using the offset feature.</li>
+<li>You can bulk offset multiple dates or all dates for a new term or another section of the course. See the <a href="/grav/grav-skeleton-rtfm-site/d2lbasics" title="Manage Dates Tool">Manage Dates</a> tool.</li>
+<li>You can subscribe to calendars or import calendars using a Microsoft Outlook <a href="https://support.office.com/en-gb/article/View-and-subscribe-to-Internet-Calendars-f6248506-e144-4508-b658-c838b6067597" title="MS Office Support">iCal feed</a>.</li>
+</ul>
+<p>TODO links</p>";s:12:"content_meta";N;}

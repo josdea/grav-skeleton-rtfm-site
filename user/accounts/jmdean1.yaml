@@ -1,0 +1,11 @@
+email: jmdean1@pstcc.edu
+fullname: 'Josh Dean'
+title: 'Instr. Tech'
+state: enabled
+access:
+  admin:
+    login: true
+    super: true
+  site:
+    login: true
+hashed_password: $2y$10$fvciymz8klfHt9kQX6EPIeQTWKZsvRnjY9WnkeJjT8Ef7mFHJCtuy

@@ -1,0 +1,11 @@
+email: bcballentine@pstcc.edu
+access:
+  admin:
+    login: true
+    super: true
+  site:
+    login: true
+fullname: Brandon
+title: Admin
+state: enabled
+hashed_password: $2y$10$aDwPD.6sfMyQexG7eMYPBOOBc81fRZhF8FXo8uDFa0mvP9/CBZrz.
