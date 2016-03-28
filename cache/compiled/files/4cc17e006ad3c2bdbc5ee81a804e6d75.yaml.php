@@ -2,7 +2,7 @@
 return [
     '@class' => 'Grav\\Common\\File\\CompiledYamlFile',
     'filename' => 'themes://learn2/learn2.yaml',
-    'modified' => 1456939078,
+    'modified' => 1459196269,
     'data' => [
         'enabled' => true,
         'root_page' => NULL,
@@ -11,8 +11,8 @@ return [
         'home_url' => NULL,
         'github' => [
             'position' => 'top',
-            'tree' => 'https://github.com/getgrav/grav-skeleton-rtfm-site/blob/develop/',
-            'commits' => 'https://github.com/getgrav/grav-skeleton-rtfm-site/commits/develop/'
+            'tree' => 'https://github.com/josdea/grav-skeleton-rtfm-site',
+            'commits' => 'https://github.com/josdea/grav-skeleton-rtfm-site'
         ]
     ]
 ];

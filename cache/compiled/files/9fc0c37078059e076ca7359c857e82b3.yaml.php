@@ -2,7 +2,7 @@
 return [
     '@class' => 'Grav\\Common\\File\\CompiledYamlFile',
     'filename' => 'H:/Dean/Githubs/grav/grav-skeleton-rtfm-site/user/themes/learn2/blueprints.yaml',
-    'modified' => 1456939078,
+    'modified' => 1459196108,
     'data' => [
         'name' => 'Learn2',
         'version' => '1.5.0',
@@ -13,7 +13,7 @@ return [
             'email' => 'devs@getgrav.org',
             'url' => 'http://getgrav.org'
         ],
-        'homepage' => 'https://github.com/getgrav/grav-theme-learn2',
+        'homepage' => 'https://github.com/josdea/grav-skeleton-rtfm-site',
         'demo' => 'http://learn.getgrav.org',
         'keywords' => 'heme, docs, modern, fast, responsive, html5, css3',
         'bugs' => 'https://github.com/getgrav/grav-theme-learn2/issues',
@@ -56,20 +56,20 @@ return [
                     'classes' => 'fancy',
                     'label' => 'GitHub Position',
                     'options' => [
-                        'top' => 'Top',
-                        'bottom' => 'Bottom',
+                        'top' => 'Off',
+                        'bottom' => 'Off',
                         'off' => 'Off'
                     ]
                 ],
                 'github.tree' => [
                     'type' => 'text',
                     'label' => 'GitHub Tree',
-                    'default' => 'https://github.com/getgrav/grav-skeleton-rtfm-site/blob/develop/'
+                    'default' => 'https://github.com/josdea/grav-skeleton-rtfm-site'
                 ],
                 'github.commits' => [
                     'type' => 'text',
                     'label' => 'GitHub Tree',
-                    'default' => 'https://github.com/getgrav/grav-skeleton-rtfm-site/commits/develop/'
+                    'default' => 'https://github.com/josdea/grav-skeleton-rtfm-site'
                 ]
             ]
         ]
